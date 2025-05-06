@@ -1,0 +1,24 @@
+{
+  "name": "stickynote",
+  "version": "1.0.0",
+  "description": "Sticky note usando electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolopes17/stickynote.git"
+  },
+  "author": "Caio Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiolopes17/stickynote/issues"
+  },
+  "homepage": "https://github.com/caiolopes17/stickynote#readme",
+  "dependencies": {
+    "electron": "^36.1.0",
+    "mongoose": "^8.14.1"
+  }
+}
