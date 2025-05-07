@@ -1,7 +1,7 @@
 # StickyNotes
 Projeto de notas autoadesivas (estilo post-it) usando o framewrok Electron e o banco de dados MongoDB.
 
-![](https://github.com/caiolopes17/stickynote/blob/main/src/public/img/img1.png)
+![](src/public/img/img2.png)
 
 ## Autor
 Caio lOPES
